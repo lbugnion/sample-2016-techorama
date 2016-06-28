@@ -2,9 +2,9 @@
 
 My code samples for the Techorama conference 2016 (Mechelen, Belgium)
 
-# Presentation details, Slides, Video
+# Presentation details, Slides
 
-You can see the video recording and the slides here:
+You can see the details and the slides here:
 
 http://galasoft.ch/presentations/presentationdetails.cshtml?name=2016007
 
